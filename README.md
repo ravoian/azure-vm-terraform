@@ -12,9 +12,11 @@ Sample configuration to setup Azure VM using Terraform infrastructure-as-code
 
 4. Setup OpenSSH [How to Generate SSH Key in Windows | phoenixNAP KB](https://phoenixnap.com/kb/generate-ssh-key-windows-10)
 
-5. Run `setup.bat` to start creating resources
+5. Add your subscription id to `terraform.tfvars`
 
-6. Run `destroy.bat` to destroy created resources
+6. Run `setup.bat` to start creating resources
+
+7. Run `destroy.bat` to destroy created resources
 
 ## Additional online resources:
 
